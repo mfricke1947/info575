@@ -1,5 +1,6 @@
 Hello world!
 This is a second line in the file.
+Anne is adding a line at line 3.
 Hi, my name is Anne!
 And now I am repeating myself
 And I am Ben
