@@ -4,3 +4,4 @@ Adding a line to textfile2.
 Anne was here.
 Anne was here.
 Ben was here
+Ben was here again
